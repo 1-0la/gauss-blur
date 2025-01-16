@@ -1,4 +1,23 @@
-node_modules/
+# Файлы сборки
 dist/
+node_modules/
+
+# Файлы IDE
 .idea/
+.vscode/
+
+# Системные файлы macOS
+.DS_Store
+
+# Лог-файлы
 *.log
+
+# Временные файлы редактора
+*.swp
+*.swo
+*~
+*.bak
+
+# Другие временные файлы
+npm-debug.log*
+yarn-error.log*
