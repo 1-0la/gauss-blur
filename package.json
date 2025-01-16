@@ -1,0 +1,17 @@
+{
+    "name": "high-performance-blur",
+    "version": "1.0.0",
+    "description": "High performance blur implementation in Typescript",
+    "scripts": {
+      "build": "webpack",
+      "start": "webpack serve --open"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "ts-loader": "^9.4.4",
+      "typescript": "^5.1.6",
+      "webpack": "^5.88.2",
+      "webpack-cli": "^5.1.4",
+      "webpack-dev-server": "^4.15.1"
+    }
+  }
